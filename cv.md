@@ -19,6 +19,18 @@ I did my internship in SerVC, Herzlia, Israel. As part of the MASA program, I st
 * Git, GitHub
 * VSCode
 ### Code Example
+*Calculate the arithmetic mean of negative elements.*
+```
+function average(array){
+    let sum = 0;
+    for (let i = 0; i < array.length; i++){
+      if (array[i] < 0){
+        sum += array[i];
+        };
+      };
+    return sum / array.length;
+  };
+```
 ### Cources
 * MASA education program, Israel - WEB programming course (completed)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
