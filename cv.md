@@ -2,8 +2,14 @@
 ### Junior Frontend Developer
 ### Contact Information
 **Phone:** +972 55-9427-859
+
+
 **E-mail:** linasimova@gmail.com
+
+
 **Telegram:** @linasimv
+
+
 [Linkedin](https://www.linkedin.com/in/lina-nissim-204541226/)
 ### Profile
 I’m from Saratov, Russian Federation. I was a lawyer with experience in contract law. It has always been my desire to work in IT. Now I am looking for an opportunity to change my field of activity and finally come to what I wanted for a long time. Previously I studied the MS SQL by myself and was an intern in writing requests. Now I am studying to be a web developer, namely studying interaction of HTML, CSS and JavaScript.
