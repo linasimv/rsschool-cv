@@ -1,1 +1,1 @@
-# rsschool-cv
+https://linasimv.github.io/rsschool-cv/cv
